@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <meta charset="UTF-8">
+  <meta name="description" content = "Fintech"
     <title>shaneamiller</title>
   </head>
 
   <body>
-    <p></p>
+    <h2>Shane Miller</h2>
+    <p><b>This is my paragraph</b></p>
+    <p>This is my other paragraph</p>
   </body>
 
 </html>
-
