@@ -1,6 +1,19 @@
-div{
-    border-radius:5px;  
-    background:blue;
+#banner {
+    background-color: blue;
+    height: 200px;
+    text-align: center;
 }
-
-
+ 
+h1 {
+    margin: 0px;
+    line-height: 200px;
+}
+ 
+body {
+    margin: 0px;
+    background-color: rgb(209, 162, 98);
+}
+ 
+.bodyText {
+    color: #5b120c;
+}
